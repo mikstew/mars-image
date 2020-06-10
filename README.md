@@ -7,6 +7,6 @@
         * lat (-90 to 90)
         * long (-180 to 180)
  * /get-metrics
-    * Returns the cache miss and cache hit metrics
+    * Returns the cache miss, cache hit, cache eviction, and their associated average execution times.
  * /reset-metrics
     * Resets the cache metrics
