@@ -15,8 +15,8 @@ import (
 
 const (
 	imageURL = "https://mars.com/image?lat=%g&long=%g"
-	logLevel = log.DebugLevel
-	// logLevel = log.WarnLevel
+	//logLevel = log.DebugLevel
+	logLevel = log.WarnLevel
 )
 
 var cache = lrucache.Cache{}
