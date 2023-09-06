@@ -1,6 +1,6 @@
 # mars-image
 
-# Purpose
+## Purpose
 This project was an interview question which asked for the implementation of a Least Recently Used (LRU) Cache with applicable metrics captured.
 
 ## Endpoints
